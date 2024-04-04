@@ -41,6 +41,10 @@ $ privacy_scanner [flags]
 
 Example:
 
+![](./.github/images/screenshot.png)
+
+![](./.github/images/sample.jpeg)
+
 To perform a privacy scan on a project located in ~/Documents/projectFolder while excluding the Pods directory (commonly used for CocoaPods dependencies in iOS projects), you can use the following command:
 
 ```bash 
